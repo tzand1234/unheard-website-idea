@@ -35,6 +35,9 @@
     },
     "Summary": {
       "type": "string"
+    },
+    "DatePack": {
+      "type": "date"
     }
   }
 }
